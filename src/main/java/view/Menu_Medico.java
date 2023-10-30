@@ -8,12 +8,12 @@ package view;
  *
  * @author l a w t
  */
-public class Menu extends javax.swing.JPanel {
+public class Menu_Medico extends javax.swing.JPanel {
 
     /**
      * Creates new form Menu
      */
-    public Menu() {
+    public Menu_Medico() {
         initComponents();
     }
 

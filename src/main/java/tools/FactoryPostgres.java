@@ -36,7 +36,7 @@ public class FactoryPostgres {
         }
     }
     
-    private static Connection getConexaoPostgres(){
+    public static Connection getConexaoPostgres(){
         getIP();
         if ( conexaoBD == null){
             try{
